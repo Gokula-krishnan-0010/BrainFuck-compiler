@@ -1,0 +1,13 @@
+.header {
+    background-color: darkslateblue;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.title {
+    width: 50%;
+}
+
+.buttons {
+    width: 50%;
+}
